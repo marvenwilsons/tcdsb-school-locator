@@ -1,0 +1,298 @@
+{
+  "Toronto Catholic Schools": {
+    "North York": [
+      {
+        "School": "St. Simon",
+        "Address": "24 Strathburn Blvd. M9M 2K3",
+        "Phone": "393-5383",
+        "Ward": 3,
+        "Area": 1
+      },
+      {
+        "School": "St. Timothy",
+        "Address": "25 Rochelle Cres. M2J 1Y3",
+        "Phone": "393-5298",
+        "Ward": 11,
+        "Area": 4
+      },
+      {
+        "School": "St. Wilfrid",
+        "Address": "1685 Finch Ave. W. M3J 2G8",
+        "Phone": "393-5313",
+        "Ward": 3,
+        "Area": 3
+      },
+      {
+        "School": "Ven. John Merlini",
+        "Address": "123 Whitfield Ave. M9L 1G9",
+        "Phone": "393-5397",
+        "Ward": 3,
+        "Area": 1
+      }
+    ],
+    "Secondary Schools": [
+      {
+        "School": "Brebeuf College",
+        "Address": "211 Steeles Ave. E. M2M 3Y6",
+        "Phone": "393-5508",
+        "Ward": 5,
+        "Area": 4
+      },
+      {
+        "School": "Cardinal Carter Academy for the Arts",
+        "Address": "36 Greenfield Ave. M2N 3C8",
+        "Phone": "393-5556",
+        "Ward": 5,
+        "Area": 4,
+        "Grades": "7-12"
+      },
+      {
+        "School": "Chaminade College",
+        "Address": "490 Queen's Dr. M6L 1M8",
+        "Phone": "393-5509",
+        "Ward": 10,
+        "Area": 2
+      },
+      {
+        "School": "Dante Alighieri Academy",
+        "Address": "60 Playfair Ave. M6B 2P9",
+        "Phone": "393-5522",
+        "Ward": 5,
+        "Area": 3
+      },
+      {
+        "School": "James Cardinal McGuigan",
+        "Address": "1440 Finch Ave. W. M3J 3G3",
+        "Phone": "393-5527",
+        "Ward": 3,
+        "Area": 3
+      },
+      {
+        "School": "Loretto Abbey",
+        "Address": "101 Mason Blvd. M5M 3E2",
+        "Phone": "393-5510",
+        "Ward": 5,
+        "Area": 4
+      },
+      {
+        "School": "Madonna",
+        "Address": "20 Dubray Ave. M3K 1V5",
+        "Phone": "393-5506",
+        "Ward": 5,
+        "Area": 3
+      },
+      {
+        "School": "St. Basil-the-Great College",
+        "Address": "20 Starview Lane M9M 3B2",
+        "Phone": "393-5513",
+        "Ward": 3,
+        "Area": 1
+      },
+      {
+        "School": "St. Joseph's Morrow Park",
+        "Address": "3379 Bayview Ave. M2M 3S4",
+        "Phone": "393-5516",
+        "Ward": 11,
+        "Area": 4
+      },
+      {
+        "School": "Senator O'Connor College",
+        "Address": "60 Rowena Drive M3A 3R2",
+        "Phone": "393-5505",
+        "Ward": 11,
+        "Area": 4
+      }
+    ],
+    "Scarborough": [
+      {
+        "School": "Blessed Pier Giorgio Frassati",
+        "Address": "8 Seasons Drive M1X 1X4",
+        "Phone": "393-5456",
+        "Ward": 8,
+        "Area": 7
+      },
+      {
+        "School": "Cardinal Léger",
+        "Address": "600 Morrish Rd. M1C 4Y1",
+        "Phone": "393-5419",
+        "Ward": 8,
+        "Area": 8
+      },
+      {
+        "School": "Epiphany of Our Lord",
+        "Address": "3150 Pharmacy Ave. M1W 3J5",
+        "Phone": "393-5378",
+        "Ward": 7,
+        "Area": 4
+      },
+      {
+        "School": "Holy Spirit",
+        "Address": "3530 Sheppard Ave. E. M1T 3K7",
+        "Phone": "393-5282",
+        "Ward": 7,
+        "Area": 7
+      },
+      {
+        "School": "Immaculate Heart of Mary",
+        "Address": "101 Birchmount Rd. M1N 3J7",
+        "Phone": "393-5272",
+        "Ward": 12,
+        "Area": 8
+      },
+      {
+        "School": "Our Lady of Fatima",
+        "Address": "3176 St. Clair Ave. E. M1L 1V6",
+        "Phone": "393-5252",
+        "Ward": 12,
+        "Area": 8
+      },
+      {
+        "School": "Our Lady of Grace",
+        "Address": "121 Brimwood Blvd. M1V 1E5",
+        "Phone": "393-5372",
+        "Ward": 8,
+        "Area": 7
+      },
+      {
+        "School": "Our Lady of Wisdom",
+        "Address": "10 Japonica Rd. M1R 4R7",
+        "Phone": "393-5273",
+        "Ward": 7,
+        "Area": 4
+      },
+      {
+        "School": "Precious Blood",
+        "Address": "1035 Pharmacy Ave. M1R 2G8",
+        "Phone": "393-5258",
+        "Ward": 7,
+        "Area": 4
+      },
+      {
+        "School": "Prince of Peace",
+        "Address": "265 Alton Towers Circ. M1V 4E7",
+        "Phone": "393-5416",
+        "Ward": 8,
+        "Area": 7
+      },
+      {
+        "School": "Sacred Heart",
+        "Address": "75 Hupfield Trail M1B 4S3",
+        "Phone": "393-5415",
+        "Ward": 8,
+        "Area": 7
+      },
+      {
+        "School": "St. Agatha",
+        "Address": "49 Cathedral Bluffs Dr. M1M 2T6",
+        "Phone": "393-5302",
+        "Ward": 12,
+        "Area": 8
+      },
+      {
+        "School": "St. Aidan",
+        "Address": "3521 Finch Ave. E. M1W 2S2",
+        "Phone": "393-5350",
+        "Ward": 7,
+        "Area": 7
+      },
+      {
+        "School": "St. Albert",
+        "Address": "1125 Midland Ave. M1K 4H2",
+        "Phone": "393-5335",
+        "Ward": 7,
+        "Area": 7
+      },
+      {
+        "School": "St. Barbara",
+        "Address": "25 Janray Dr. M1G 1Y2",
+        "Phone": "393-5274",
+        "Ward": 12,
+        "Area": 8
+      },
+      {
+        "School": "St. Barnabas",
+        "Address": "30 Washburn Way M1B 1H3",
+        "Phone": "393-5351",
+        "Ward": 8,
+        "Area": 7
+      },
+      {
+        "School": "St. Bartholomew",
+        "Address": "51 Heather Rd. M1S 2E2",
+        "Phone": "393-5334",
+        "Ward": 8,
+        "Area": 7
+      },
+      {
+        "School": "St. Bede",
+        "Address": "521 Sewells Rd. M1B 5H3",
+        "Phone": "393-5425",
+        "Ward": 8,
+        "Area": 7
+      },
+      {
+        "School": "St. Boniface",
+        "Address": "20 Markanna Dr. M1M 2J1",
+        "Phone": "393-5277",
+        "Ward": 12,
+        "Area": 8
+      },
+      {
+        "School": "St. Brendan",
+        "Address": "186 Centennial Rd. M1C 1Z9",
+        "Phone": "393-5359",
+        "Ward": 8,
+        "Area": 8
+      },
+      {
+        "School": "St. Columba",
+        "Address": "10 John Tabor Trail M1B 1M9",
+        "Phone": "393-5380",
+        "Ward": 8,
+        "Area": 8
+      },
+      {
+        "School": "St. Dominic Savio",
+        "Address": "50 Tideswell Blvd. M1B 5X3",
+        "Phone": "393-5467",
+        "Ward": 8,
+        "Area": 8
+      },
+      {
+        "School": "St. Dunstan",
+        "Address": "14 Pharmacy Ave. M1L 3E4",
+        "Phone": "393-5241",
+        "Ward": 12,
+        "Area": 8
+      },
+      {
+        "School": "St. Edmund Campion",
+        "Address": "30 Highcastle Rd. M1E 4N1",
+        "Phone": "393-5356",
+        "Ward": 12,
+        "Area": 8
+      },
+      {
+        "School": "St. Elizabeth Seton",
+        "Address": "25 Havenview Rd. M1S 3A4",
+        "Phone": "393-5386",
+        "Ward": 8,
+        "Area": 7
+      },
+      {
+        "School": "St. Florence",
+        "Address": "101 Murison Blvd. M1B 2L6",
+        "Phone": "393-5385",
+        "Ward": 8,
+        "Area": 7
+      },
+      {
+        "School": "St. Gabriel Lalemant",
+        "Address": "160 Crow Trail M1B 1Y3",
+        "Phone": "393-5377",
+        "Ward": 8,
+        "Area": 7
+      }
+    ]
+  }
+}

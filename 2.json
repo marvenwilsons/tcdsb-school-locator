@@ -1,0 +1,376 @@
+{
+    "Toronto Catholic Schools": {
+      "East York": [
+        {
+          "School": "St. John",
+          "Address": "780 Kingston Rd. M4E 1R7",
+          "Phone": "393-5239",
+          "Ward": 16,
+          "Area": 6
+        },
+        {
+          "School": "St. Joseph",
+          "Address": "176 Leslie St. M4M 3C7",
+          "Phone": "393-5209",
+          "Ward": 16,
+          "Area": 6
+        },
+        {
+          "School": "St. Luigi",
+          "Address": "2 Ruskin Ave. M6P 3P8",
+          "Phone": "393-5370",
+          "Ward": 9,
+          "Area": 6
+        },
+        {
+          "School": "St. Mary",
+          "Address": "20 Portugal Square M6J 3P2",
+          "Phone": "393-5205",
+          "Ward": 10,
+          "Area": 6
+        },
+        {
+          "School": "St. Mary of the Angels",
+          "Address": "1477 Dufferin St. M6H 4C7",
+          "Phone": "393-5282",
+          "Ward": 9,
+          "Area": 6
+        },
+        {
+          "School": "St. Michael",
+          "Address": "50 George St. S M5A 4B2",
+          "Phone": "393-5387",
+          "Ward": 10,
+          "Area": 6
+        },
+        {
+          "School": "St. Michael's Choir",
+          "Address": "67 Bond Street M5B 1X2",
+          "Phone": "393-5518",
+          "Ward": 10,
+          "Area": 6,
+          "Grades": "3-8"
+        },
+        {
+          "School": "St. Monica",
+          "Address": "14 Broadway Ave. M4P 1T4",
+          "Phone": "393-5220",
+          "Ward": 11,
+          "Area": 4
+        },
+        {
+          "School": "St. Paul",
+          "Address": "80 Sackville St. M5A 3E5",
+          "Phone": "393-5204",
+          "Ward": 10,
+          "Area": 6
+        },
+        {
+          "School": "St. Pius X",
+          "Address": "71 Jane St. M6S 3Y3",
+          "Phone": "393-5237",
+          "Ward": 10,
+          "Area": 4
+        },
+        {
+          "School": "St. Pope Paul VI",
+          "Address": "270 Laughton Ave. M6N 2X8",
+          "Phone": "393-5364",
+          "Ward": 6,
+          "Area": 5
+        },
+        {
+          "School": "St. Rita",
+          "Address": "178 Edwin Ave. M6P 3Z9",
+          "Phone": "393-5216",
+          "Ward": 9,
+          "Area": 5
+        },
+        {
+          "School": "St. Sebastian",
+          "Address": "717 Brock Ave. M6H 3P1",
+          "Phone": "393-5354",
+          "Ward": 9,
+          "Area": 5
+        },
+        {
+          "School": "St. Vincent de Paul",
+          "Address": "116 Fermanagh Ave. M6R 1M2",
+          "Phone": "393-5221",
+          "Ward": 10,
+          "Area": 6
+        },
+        {
+          "School": "Stella Maris",
+          "Address": "31 Ascot Ave. M6E 1E6",
+          "Phone": "393-5371",
+          "Ward": 6,
+          "Area": 5
+        }
+      ],
+      "Secondary Schools": [
+        {
+          "School": "Bishop Marrocco/Thomas Merton",
+          "Address": "1515 Bloor St. W M6P 1A3",
+          "Phone": "393-5545",
+          "Ward": 9,
+          "Area": 5
+        },
+        {
+          "School": "Loretto College",
+          "Address": "151 Rosemount Ave. M6H 2N1",
+          "Phone": "393-5511",
+          "Ward": 6,
+          "Area": 5
+        },
+        {
+          "School": "Marshall McLuhan",
+          "Address": "1107 Avenue Rd. M5N 3B1",
+          "Phone": "393-5561",
+          "Ward": 11,
+          "Area": 4
+        },
+        {
+          "School": "Notre Dame",
+          "Address": "12 Malvern Ave. M4E 3E1",
+          "Phone": "393-5501",
+          "Ward": 16,
+          "Area": 6
+        },
+        {
+          "School": "St. Joseph's College",
+          "Address": "74 Wellesley St. W. M5S 1C4",
+          "Phone": "393-5512",
+          "Ward": 10,
+          "Area": 6
+        },
+        {
+          "School": "St. Mary Catholic Academy",
+          "Address": "66 Dufferin Park Ave. M6H 1J6",
+          "Phone": "393-5528",
+          "Ward": 9,
+          "Area": 6
+        },
+        {
+          "School": "St. Michael's Choir",
+          "Address": "67 Bond St. M5B 1X2",
+          "Phone": "393-5518",
+          "Ward": 10,
+          "Area": 6
+        },
+        {
+          "School": "St. Patrick",
+          "Address": "49 Felstead Ave. M4J 1G3",
+          "Phone": "393-5546",
+          "Ward": 11,
+          "Area": 4
+        }
+      ],
+      "York": [
+        {
+          "School": "D'Arcy McGee",
+          "Address": "20 Bansley Ave. M6E 2A2",
+          "Phone": "393-5318",
+          "Ward": 9,
+          "Area": 5
+        },
+        {
+          "School": "Holy Rosary",
+          "Address": "308 Tweedsmuir Ave. M5P 2Y1",
+          "Phone": "393-5225",
+          "Ward": 10,
+          "Area": 5
+        },
+        {
+          "School": "James Culnan",
+          "Address": "605 Willard Ave. M6S 3S1",
+          "Phone": "393-5325",
+          "Ward": 10,
+          "Area": 2
+        },
+        {
+          "School": "Our Lady of Victory",
+          "Address": "70 Guestville Ave. M6N 4N3",
+          "Phone": "393-5347",
+          "Ward": 6,
+          "Area": 5
+        },
+        {
+          "School": "St. Alphonsus",
+          "Address": "60 Atlas Ave. M6C 3N9",
+          "Phone": "393-5338",
+          "Ward": 9,
+          "Area": 5
+        },
+        {
+          "School": "St. Clare",
+          "Address": "124 Northcliffe Blvd. M6E 3K4",
+          "Phone": "393-5214",
+          "Ward": 9,
+          "Area": 5
+        },
+        {
+          "School": "St. James",
+          "Address": "230 Humbercrest Blvd. M6S 4L3",
+          "Phone": "393-5276",
+          "Ward": 10,
+          "Area": 2
+        },
+        {
+          "School": "St. John Bosco",
+          "Address": "75 Holmesdale Rd. M6E 1Y2",
+          "Phone": "393-5305",
+          "Ward": 9,
+          "Area": 5
+        },
+        {
+          "School": "St. John the Evangelist",
+          "Address": "20 Beverly Hills Drive M3L 1A1",
+          "Phone": "393-5244",
+          "Ward": 6,
+          "Area": 2
+        },
+        {
+          "School": "St. Matthew",
+          "Address": "18 Lavender Rd. M6N 2B5",
+          "Phone": "393-5240",
+          "Ward": 10,
+          "Area": 5
+        },
+        {
+          "School": "St. Nicholas of Bari",
+          "Address": "363 Rogers Rd. M6E 1R6",
+          "Phone": "393-5355",
+          "Ward": 9,
+          "Area": 5
+        },
+        {
+          "School": "St. Thomas Aquinas",
+          "Address": "636 Glenholme Ave. M6E 3C9",
+          "Phone": "393-5236",
+          "Ward": 9,
+          "Area": 5
+        },
+        {
+          "School": "Santa Maria",
+          "Address": "25 Avon Ave. M6N 4X8",
+          "Phone": "393-5368",
+          "Ward": 10,
+          "Area": 2
+        }
+      ],
+      "Secondary Schools": [
+        {
+          "School": "St. Oscar Romero",
+          "Address": "99 Humber Blvd. M6N 2H4",
+          "Phone": "393-5555",
+          "Ward": 10,
+          "Area": 2
+        }
+      ],
+      "Monsignor Fraser College": {
+        "Annex Campus": {
+          "Address": "700 Markham St. M6G 2M3",
+          "Phone": "393-5557",
+          "Grades": "16-18"
+        },
+        "Isabella Campus": {
+          "Address": "146 Isabella St. M4Y 1P6",
+          "Phone": "393-5533",
+          "Grades": "18-20, 21+"
+        },
+        "Midland Campus": {
+          "Address": "2900 Midland Ave. M1S 3K8",
+          "Phone": "393-5532",
+          "Grades": "18-20, 21+"
+        },
+        "Midland North Campus": {
+          "Address": "2900 Midland Ave. M1S 3K8",
+          "Phone": "397-6496",
+          "Grades": "16-18"
+        },
+        "Midtown Campus": {
+          "Address": "36 Eglinton Ave. W, Suite 500 M4R 1A1",
+          "Phone": "393-5124",
+          "Grades": "16-18"
+        },
+        "OLL Campus (Elementary)": {
+          "Address": "444 Sherbourne St. M4X 1K2",
+          "Phone": "397-6536",
+          "Grades": "6-8 (on board expulsion)"
+        },
+        "Msgr. Fraser (Isabella North)": {
+          "Address": "25 Linden St. M4Y 1V5",
+          "Phone": "393-5533",
+          "Grades": "18-20, 21+"
+        },
+        "Northfinch Campus": {
+          "Address": "45 Norfinch Dr. M3N 1W8",
+          "Phone": "393-5558",
+          "Grades": "16-20"
+        },
+        "Northeast SAL Program": {
+          "Address": "100 Fundy Bay Blvd. M1W 3G1",
+          "Phone": "397-6018",
+          "Referral": "By referral only"
+        },
+        "Orientation Centre": {
+          "Address": "700 Markham St. M6G 2M3",
+          "Phone": "393-5500"
+        },
+        "Southwest SAL Program": {
+          "Address": "319 Ossington Ave. M6J 3A6",
+          "Phone": "393-5872",
+          "Referral": "By referral only"
+        },
+        "St. Martin Campus": {
+          "Address": "55 Salisbury Ave. M4X 1C5",
+          "Phone": "397-6536",
+          "Grades": "9-12 (on board expulsion)"
+        }
+      },
+      "21st Century Learning Centres": [
+        {
+          "School": "Our Lady of Mount Carmel",
+          "Address": "270 Cherokee Blvd. M2H 3B9",
+          "Phone": "393-5405"
+        },
+        {
+          "School": "Regina Pacis",
+          "Address": "45 Norfinch Dr. M3N 1W8",
+          "Phone": "393-5448"
+        }
+      ],
+      "TCDSB LINC and ESL Sites": {
+        "URL": "www.tcdsb.org/adulted"
+      },
+      "Administrative Offices": [
+        {
+          "Office": "Catholic Education Centre",
+          "Address": "80 Sheppard Ave. E. M2N 6E8",
+          "Phone": "222-8282"
+        },
+        {
+          "Office": "TCDSB Orientation Centre",
+          "Address": "700 Markham St. M6G 2M3",
+          "Phone": "393-5500"
+        },
+        {
+          "Office": "TCDSB East Facilities",
+          "Address": "97 Railside Rd. M3A 1B2",
+          "Phone": "393-5776"
+        },
+        {
+          "Office": "TCDSB Warehouse",
+          "Address": "97 Railside Rd. M3A 1B2",
+          "Phone": "393-5406"
+        },
+        {
+          "Office": "TCDSB West Facilities",
+          "Address": "18 Beverly Hills Dr. M3L 1A1",
+          "Phone": "393-5100"
+        }
+      ]
+    }
+  }
+  

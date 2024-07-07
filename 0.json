@@ -1,0 +1,559 @@
+{
+    "Toronto Catholic Schools": {
+      "East York": [
+        {
+          "School": "Canadian Martyrs",
+          "Address": "520 Plains Rd. M4C 2Z1",
+          "Phone": "393-5251",
+          "Ward": 1,
+          "Area": 6
+        },
+        {
+          "School": "Holy Cross",
+          "Address": "299A Donlands Ave. M4J 3R7",
+          "Phone": "393-5278",
+          "Ward": 1,
+          "Area": 11
+        },
+        {
+          "School": "St. Anselm",
+          "Address": "182 Bessborough Dr. M4G 3J9",
+          "Phone": "393-5243",
+          "Ward": 1,
+          "Area": 6
+        }
+      ],
+      "Etobicoke": [
+        {
+          "School": "All Saints",
+          "Address": "1435 Royal York Rd. M9P 3A7",
+          "Phone": "393-5209",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "Father Serra",
+          "Address": "111 Sun Row Dr. M9P 3J3",
+          "Phone": "393-5391",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "Holy Angels",
+          "Address": "65 Jutland Rd. M8Z 2G6",
+          "Phone": "393-5329",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "Holy Child",
+          "Address": "850 Humberwood Blvd. M9W 7A6",
+          "Phone": "393-5433",
+          "Ward": 1,
+          "Area": 1
+        },
+        {
+          "School": "Josyf Cardinal Slipyj",
+          "Address": "35 W Deane Park Dr. M9B 2R5",
+          "Phone": "393-5413",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "Msgr. John Corrigan",
+          "Address": "100 Royalecrest Rd. M9V 5H4",
+          "Phone": "393-5390",
+          "Ward": 1,
+          "Area": 1
+        },
+        {
+          "School": "Mother Cabrini",
+          "Address": "720 Renforth Dr. M9C 2N9",
+          "Phone": "393-5340",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "Nativity of Our Lord",
+          "Address": "35 Saffron Cres. M9C 3T8",
+          "Phone": "393-5283",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "Our Lady of Peace",
+          "Address": "70 Mattice Ave. M9B 1T6",
+          "Phone": "393-5258",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "Our Lady of Sorrows",
+          "Address": "32 Montgomery Rd. M8X 1Z4",
+          "Phone": "393-5246",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "St. Ambrose",
+          "Address": "20 Coules Court M8W 2N9",
+          "Phone": "393-5255",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "St. Andrew",
+          "Address": "2533 Kipling Ave. M9V 3A8",
+          "Phone": "393-5330",
+          "Ward": 1,
+          "Area": 1
+        },
+        {
+          "School": "St. Angela",
+          "Address": "220 Mount Olive Dr. M9V 3Z5",
+          "Phone": "393-5364",
+          "Ward": 1,
+          "Area": 1
+        },
+        {
+          "School": "St. Benedict",
+          "Address": "2202 Kipling Ave. M9W 4K9",
+          "Phone": "393-5267",
+          "Ward": 1,
+          "Area": 1
+        },
+        {
+          "School": "St. Clement",
+          "Address": "4319 Bloor St. W. M9C 2A2",
+          "Phone": "393-5384",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "St. Demetrius",
+          "Address": "125 La Rose Ave. M9P 1A6",
+          "Phone": "393-5387",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "St. Dorothy",
+          "Address": "155 John Garland Blvd. M9V 1N7",
+          "Phone": "393-5334",
+          "Ward": 1,
+          "Area": 1
+        },
+        {
+          "School": "St. Elizabeth",
+          "Address": "5 Redcar Ave. M9B 1B8",
+          "Phone": "393-5279",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "St. Eugene",
+          "Address": "30 Westroyal Rd. M9P 2C3",
+          "Phone": "393-5332",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "St. Gregory",
+          "Address": "126 Rathburn Rd. M9B 2K6",
+          "Phone": "393-5260",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "St. John Vianney",
+          "Address": "105 ThistleDown Blvd. M9V 1J5",
+          "Phone": "393-5392",
+          "Ward": 1,
+          "Area": 1
+        },
+        {
+          "School": "St. Josaphat",
+          "Address": "110 Tenth St. M8V 3G1",
+          "Phone": "393-5291",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "St. Leo",
+          "Address": "165 Stanley Ave. M8V 1P1",
+          "Phone": "393-5333",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "St. Louis",
+          "Address": "11 Morgan Ave. M8Y 2Z7",
+          "Phone": "393-5331",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "St. Marcellus",
+          "Address": "15 Denfield St. M9R 3H2",
+          "Phone": "393-5290",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "St. Mark",
+          "Address": "45 Cloverhill Rd. M8Y 1T4",
+          "Phone": "393-5336",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "St. Maurice",
+          "Address": "45 Kingsview Blvd. M9R 1T7",
+          "Phone": "393-5374",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "St. Stephen",
+          "Address": "55 Golfdown Dr. M9W 2H8",
+          "Phone": "393-5284",
+          "Ward": 1,
+          "Area": 1
+        },
+        {
+          "School": "The Holy Trinity (Gr. 5-8)",
+          "Address": "6 Colonel Samuel Smith Park Dr. M8V 4B7",
+          "Phone": "393-5414",
+          "Ward": 1,
+          "Area": 2
+        },
+        {
+          "School": "Transfiguration",
+          "Address": "55 Ladstone Dr. M9R 2J2",
+          "Phone": "393-5276",
+          "Ward": 2,
+          "Area": 2
+        }
+      ],
+      "North York": [
+        {
+          "School": "Annunciation",
+          "Address": "65 Avonwick Gate M3A 2M8",
+          "Phone": "393-5299",
+          "Ward": 11,
+          "Area": 4
+        },
+        {
+          "School": "Blessed Margherita of Citta di Castello",
+          "Address": "",
+          "Phone": "393-5304",
+          "Ward": 12,
+          "Area": 4
+        },
+        {
+          "School": "Blessed Trinity",
+          "Address": "3205 Bayview Ave. M2K 1G3",
+          "Phone": "393-5289",
+          "Ward": 11,
+          "Area": 4
+        },
+        {
+          "School": "Immaculate Conception",
+          "Address": "23 Comay Rd. M6M 2K9",
+          "Phone": "393-5281",
+          "Ward": 10,
+          "Area": 2
+        },
+        {
+          "School": "Our Lady of the Assumption",
+          "Address": "125 Glenmount Ave. M6B 2C2",
+          "Phone": "393-5346",
+          "Ward": 11,
+          "Area": 4
+        },
+        {
+          "School": "Our Lady of Guadalupe",
+          "Address": "3105 Don Mills Rd. M2J 3C2",
+          "Phone": "393-5342",
+          "Ward": 11,
+          "Area": 4
+        },
+        {
+          "School": "Regina Mundi",
+          "Address": "70 Playfair Ave. M6B 2P9",
+          "Phone": "393-5355",
+          "Ward": 12,
+          "Area": 4
+        },
+        {
+          "School": "St. Agnes",
+          "Address": "280 Otonabee Ave. M2M 2T2",
+          "Phone": "393-5345",
+          "Ward": 11,
+          "Area": 4
+        },
+        {
+          "School": "St. André",
+          "Address": "36 Yvonne Ave. M3L 1C5",
+          "Phone": "393-5410",
+          "Ward": 6,
+          "Area": 4
+        },
+        {
+          "School": "St. Antoine Daniel",
+          "Address": "160 Finch Ave. W. M2N 2J2",
+          "Phone": "393-5339",
+          "Ward": 5,
+          "Area": 4
+        },
+        {
+          "School": "St. Augustine",
+          "Address": "98 Shoreham Dr. M3N 1S9",
+          "Phone": "393-5382",
+          "Ward": 3,
+          "Area": 4
+        },
+        {
+          "School": "St. Bernard",
+          "Address": "12 Duckworth St. M6M 4W4",
+          "Phone": "393-5261",
+          "Ward": 10,
+          "Area": 2
+        },
+        {
+          "School": "St. Bonaventure",
+          "Address": "1340 Leslie St. M3C 2K9",
+          "Phone": "393-5263",
+          "Ward": 11,
+          "Area": 4
+        },
+        {
+          "School": "St. Catherine",
+          "Address": "30 Roanoke Rd. M3A 1E9",
+          "Phone": "393-5351",
+          "Ward": 11,
+          "Area": 4
+        },
+        {
+          "School": "St. Charles",
+          "Address": "50 Claver Ave. M6B 2V1",
+          "Phone": "393-5341",
+          "Ward": 12,
+          "Area": 4
+        },
+        {
+          "School": "St. Charles Garnier",
+          "Address": "20 Stong Crt. M3N 2X9",
+          "Phone": "393-5363",
+          "Ward": 3,
+          "Area": 4
+        },
+        {
+          "School": "St. Conrad",
+          "Address": "5 Exbury Road M3M 0A8",
+          "Phone": "393-5393",
+          "Ward": 4,
+          "Area": 2
+        },
+        {
+          "School": "St. Cosmas and Damian",
+          "Address": "111 Danesbury Ave. M6B 3L3",
+          "Phone": "393-5392",
+          "Ward": 12,
+          "Area": 4
+        },
+        {
+          "School": "St. Cyril",
+          "Address": "18 Kempford Blvd. M2N 2B9",
+          "Phone": "393-5275",
+          "Ward": 5,
+          "Area": 4
+        },
+        {
+          "School": "St. Edward",
+          "Address": "1 Botham Rd. M2N 2J5",
+          "Phone": "393-5294",
+          "Ward": 5,
+          "Area": 4
+        },
+        {
+          "School": "St. Fidelis",
+          "Address": "9 Bannerman St. M6L 2S5",
+          "Phone": "393-5358",
+          "Ward": 4,
+          "Area": 2
+        },
+        {
+          "School": "St. Francis de Sales",
+          "Address": "333 Firgrove Cres. M3N 1K9",
+          "Phone": "393-5361",
+          "Ward": 3,
+          "Area": 4
+        },
+        {
+          "School": "St. Francis Xavier",
+          "Address": "53 Gracefield Ave. M6L 1L3",
+          "Phone": "393-5278",
+          "Ward": 4,
+          "Area": 2
+        },
+        {
+          "School": "St. Gabriel",
+          "Address": "396 Spring Garden Ave. M2N 3H5",
+          "Phone": "393-5256",
+          "Ward": 5,
+          "Area": 4
+        },
+        {
+          "School": "St. Gerald",
+          "Address": "200 Old Sheppard Ave. M2J 3L9",
+          "Phone": "393-5307",
+          "Ward": 13,
+          "Area": 4
+        },
+        {
+          "School": "St. Isaac Jogues",
+          "Address": "1330 York Mills Rd. M3A 1Z8",
+          "Phone": "393-5282",
+          "Ward": 13,
+          "Area": 4
+        },
+        {
+          "School": "St. Jane Frances",
+          "Address": "2745 Jane St. M3L 2E8",
+          "Phone": "393-5272",
+          "Ward": 3,
+          "Area": 4
+        },
+        {
+          "School": "St. Jerome",
+          "Address": "111 Sharpecroft Blvd. M3J 1P5",
+          "Phone": "393-5294",
+          "Ward": 3,
+          "Area": 4
+        },
+        {
+          "School": "St. John XXIII",
+          "Address": "175 Grenoble Dr. M3C 3E7",
+          "Phone": "393-5328",
+          "Ward": 11,
+          "Area": 4
+        },
+        {
+          "School": "St. Jude",
+          "Address": "3251 Weston Rd. M9M 2T9",
+          "Phone": "393-5297",
+          "Ward": 4,
+          "Area": 2
+        },
+        {
+          "School": "St. Kateri Tekakwitha",
+          "Address": "70 Margaret Ave. M2J 4C5",
+          "Phone": "393-5316",
+          "Ward": 12,
+          "Area": 4
+        },
+        {
+          "School": "St. Margaret",
+          "Address": "85 Carmichael Ave. M5M 2X1",
+          "Phone": "393-5270",
+          "Ward": 5,
+          "Area": 4
+        },
+        {
+          "School": "St. Margaret Annex",
+          "Address": "50 Amer Ave. M6A 2J3",
+          "Phone": "393-5270",
+          "Ward": 5,
+          "Area": 4
+        },
+        {
+          "School": "St. Martha",
+          "Address": "1865 Sheppard Ave. M3L 1Y5",
+          "Phone": "393-5365",
+          "Ward": 4,
+          "Area": 4
+        },
+        {
+          "School": "St. Matthias",
+          "Address": "101 Van Horne Ave. M2J 2S8",
+          "Phone": "393-5283",
+          "Ward": 13,
+          "Area": 4
+        },
+        {
+          "School": "St. Norbert",
+          "Address": "60 Maniza Rd. M3K 1R6",
+          "Phone": "393-5305",
+          "Ward": 6,
+          "Area": 4
+        },
+        {
+          "School": "St. Paschal Baylon",
+          "Address": "15 St. Paschal Crt. M2M 1K6",
+          "Phone": "393-5284",
+          "Ward": 5,
+          "Area": 4
+        },
+        {
+          "School": "St. Raphael",
+          "Address": "3 Gade Dr. M3M 2K2",
+          "Phone": "393-5280",
+          "Ward": 4,
+          "Area": 4
+        },
+        {
+          "School": "St. Robert",
+          "Address": "70 Bainbridge Ave. M3H 2K2",
+          "Phone": "393-5291",
+          "Ward": 5,
+          "Area": 4
+        },
+        {
+          "School": "St. Roch",
+          "Address": "174 Duncanwoods Dr. M9L 2E3",
+          "Phone": "393-5320",
+          "Ward": 4,
+          "Area": 4
+        }
+      ],
+      "Secondary Schools": [
+        {
+          "School": "Bishop Allen Academy",
+          "Address": "721 Royal York Rd. M8Y 2T3",
+          "Phone": "393-5549",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "Father Henry Carr",
+          "Address": "1760 Martin Grove Rd. M9V 3S4",
+          "Phone": "393-5521",
+          "Ward": 1,
+          "Area": 1
+        },
+        {
+          "School": "Father John Redmond",
+          "Address": "28 Colonel Samuel Smith Park Dr. M8V 4B7",
+          "Phone": "393-5540",
+          "Ward": 2,
+          "Area": 2
+        },
+        {
+          "School": "Michael Power/St. Joseph",
+          "Address": "105 Eringate Dr. M9C 3Z7",
+          "Phone": "393-5529",
+          "Ward": 2,
+          "Area": 1
+        },
+        {
+          "School": "Msgr. Percy Johnson",
+          "Address": "2170 Kipling Ave. M9W 4K9",
+          "Phone": "393-5535",
+          "Ward": 1,
+          "Area": 1
+        }
+      ]
+    }
+  }
+  
